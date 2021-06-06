@@ -6,7 +6,7 @@ Write a program to read a list of records of the form <loc,x,y>  from  a file an
 2. findLocx(str, xval), find all records with loc==str and x==xval  
 3. addLoc(str,xyval[][],N), add N records each with loc==str and x==xyval[i][0] and y==xyval[i][1]
 
-# Requirement
+# System Requirement
 1. Python 3.6.4 and above
 
 # Execution
